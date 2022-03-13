@@ -3,11 +3,16 @@
     background-color: #F0EEEC;
 }
 
+.logo {
+    padding: 1%;
+}
+
 .navigation {
-    text-align: right;
+    text-align: center;
     color: black;
     display: flex;
     justify-content: space-evenly;
+
 
 }
 
@@ -15,8 +20,6 @@
   height: 350px;
   padding: 25px;
   background-color: #D2972A;
-  display: flex;
-  justify-content: space-between;
 
 }
 
@@ -26,6 +29,7 @@
     margin: 0 auto;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 footer {
