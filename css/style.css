@@ -20,7 +20,6 @@ li {
 .navigation {
     text-align: right;
     color: black;
-    display: flex;
 
 }
 
@@ -29,6 +28,9 @@ li {
   padding: 25px;
   background-color: #D2972A;
 
+}
+#myWork {
+    text-align: center;
 }
 
 .content {
@@ -44,9 +46,11 @@ footer {
    background-color: rgba(210, 151, 42, 0.10);
    padding: 1%;
    text-align: center;
+   height: auto
 
 }
-.p {
-    font-family: Piazolla, Arial, Helvetica, sans-serif;
+
+body {
+    font-family: Piazolla 'Times New Roman', Times, serif;
+    
 }
-  
